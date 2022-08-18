@@ -33,7 +33,7 @@ var scene = new ScrollMagic.Scene({triggerElement: "#trigger34"})
 
 SmoothScroll({
     // Время скролла 400 = 0.4 секунды
-    animationTime: 300,
+    animationTime: 400,
     // Размер шага в пикселях 
     stepSize: 97.5,
 
